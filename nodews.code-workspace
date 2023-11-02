@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../nodews"
+		},
+		{
+			"path": "../contact_list"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
